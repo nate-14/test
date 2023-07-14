@@ -1,0 +1,369 @@
+.head{
+    background: #f55a5a;
+    width: 550px;
+    height: 55px;
+   position: relative;
+   left: 340px;
+   top: -8px;
+}
+
+#globe{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    height: 24px;
+    left: 213px;
+    top: 16px;
+    border-radius: 0px;
+}
+
+.goals{
+    position: absolute;
+    width: 109px;
+    height: 16px;
+    left: 244px;
+    top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+}
+
+
+.box-container-1{
+    width: 40%;
+    margin-left: 365px;
+    margin-top: 20px;
+    height: auto;
+    display: flex;
+}
+
+.box-container-1 img{
+    width: 126px;
+    height: 168px;
+    border-radius: 5px;
+    /*! margin-top: -105px; */
+}
+
+.loc-1{
+    margin-top: -150px;
+    margin-left: 505px;
+}
+
+.loc-1 img{
+    width: 7px;
+    height: 10px;
+    background: hsba(0, 0%, 85%, 1);
+}
+
+.japan{
+    margin-left: 525px;
+    margin-top: -15px;
+    width: 72px;
+    height: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A
+}
+
+.map-1{
+    margin-left: 615px;
+    margin-top: -10px;
+    width: 106px;
+    height: 13px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+
+.fuji{
+    margin-left: 505px;
+    margin-top: -5px;
+}
+
+.fuji h1{
+    width: 326px;
+    height: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+
+.date-1{
+    margin-left: 505px;
+    margin-top: 0px;
+}
+
+.date-1 p{   
+    width: 319px;
+    height: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.cont-1{
+    margin-left: 505px;
+}
+
+.cont-1 p{
+    width: 326px;
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+
+.box-container-2{
+    width: 40%;
+    margin-left: 365px;
+    margin-top: 20px;
+    height: auto;
+    display: flex;
+}
+
+.box-container-2 img{
+    width: 126px;
+    height: 168px;
+    border-radius: 5px;
+}
+
+.loc-2{
+    margin-top: -150px;
+    margin-left: 505px;
+}
+
+.loc-2 img{
+    width: 7px;
+    height: 10px;
+    background: hsba(0, 0%, 85%, 1);
+}
+
+.australia{
+    margin-left: 525px;
+    margin-top: -15px;
+    width: 72px;
+    height: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A
+}
+
+.map-2{
+    margin-left: 615px;
+    margin-top: -10px;
+    width: 106px;
+    height: 13px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+
+.syd{
+    margin-left: 505px;
+    margin-top: -5px;
+}
+
+.syd h1{
+    width: 326px;
+    height: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+
+.date-2{
+    margin-left: 505px;
+    margin-top: 0px;
+}
+
+.date-2 p{   
+    width: 319px;
+    height: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.cont-2{
+    margin-left: 505px;
+}
+
+.cont-2 p{
+    width: 326px;
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+.box-container-3{
+    width: 40%;
+    margin-left: 365px;
+    margin-top: 25px;
+    height: auto;
+    display: flex;
+}
+
+.loc-3{
+    margin-top: -160px;
+    margin-left: 505px;
+}
+
+.loc-3 img{
+    width: 7px;
+    background: #dadada;
+    height: 10px;
+}
+
+.norway{
+    margin-left: 525px;
+    margin-top: -18px;
+}
+
+.map-3{
+    margin-left: 615px;
+    margin-top: -10px;
+    width: 106px;
+    height: 13px;
+    font-family: 'Inter';
+    font-style: normal;
+   font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+
+.ger{
+    margin-left: 505px;
+}
+
+.ger h1{
+    width: 326px;
+    height: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+.norway{
+    width: 55px;
+    height: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em; 
+    color: #2B283A;    
+}
+
+
+.date-3{
+    margin-left:505px;
+}
+
+.date-3 p{
+    width: 319px;
+    height: 11px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.cont-3{
+    margin-left: 505px;
+}
+
+.cont-3 p{
+    width: 326px;
+    height: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+      .box-container-1 img{
+        margin-top: -10px;
+        margin-left: 190px;
+       margin-bottom: 185px;
+         
+      }
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+      .box-container-2 img{
+        margin-top: -10px;
+        margin-left: 190px;
+       margin-bottom: 185px;       
+      }
+}
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+      .box-container-3 img{
+        margin-top: -10px;
+        margin-left: 190px;
+       margin-bottom: 185px;
+      }
+}
+
